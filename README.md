@@ -168,7 +168,7 @@ High-performance distributed URL shortening service with full-stack observabilit
 
 <div align="center">
 
-### 💡 "From 48 hours to 23 seconds — building AI systems that actually ship."
+### 💡 "Shipping AI and Distributed Systems that work in production."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pradumn13&color=7c6dfa&style=flat-square&label=Profile+Views)
 
