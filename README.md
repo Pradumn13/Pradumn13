@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist & AI Engineer** at **Tredence Analytics** (IIT Indore, 2023), building production AI systems at the intersection of agentic workflows, distributed backends, and large-scale data. From LangGraph pipelines cutting CAPA recommendation time from **48 hrs → 23 sec**, to MCP agents with zero-downtime hot-swapping, to distributed URL shorteners hitting **1,497 req/s** — I ship systems that work at scale.
+I'm a **Data Scientist & AI Engineer** at **Tredence Analytics** (IIT Indore, 2023), building production AI systems at the intersection of agentic workflows, distributed backends, and large-scale data. From LangGraph pipelines, to MCP agents with zero-downtime hot-swapping, to distributed URL shorteners hitting **1,497 req/s** — I ship systems that work at scale.
 
 **What I Do:**
 - 🤖 Architect **agentic AI systems** — LangGraph, RAG pipelines, MCP agents, multi-agent orchestration
