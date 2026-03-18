@@ -50,7 +50,7 @@ Hot-pluggable AI agent platform with runtime tool extensibility via MCP stdio tr
 </td>
 <td width="50%">
 
-### 🔗 [Distributed URL Shortener](https://github.com/Pradumn13)
+### 🔗 [Distributed URL Shortener](https://github.com/Pradumn13/distributed-url-shortner)
 High-performance distributed URL shortening service with full-stack observability
 
 **Engineering Highlights:**
